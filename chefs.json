@@ -1,0 +1,339 @@
+[  {  "id": 1,   
+     "chef_name": "John Smith", 
+   "chef_image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",  
+     "chef_short_description": "Award-winning chef with a passion for Mexican mix fusion cuisine",    "years_of_experience": 9,  
+       "numbers_of_recipe": 30, 
+          "likes": 7000,   
+           "recipes":  [
+            {
+              "recipe_id": 1,
+              "recipe_name": "Taco Salad",
+              "ingredients": [
+                " 1. 1 lb ground beef, ",
+                " 2. 1 head lettuce, chopped, ",
+                " 3. 1 cup cherry tomatoes, halved, ",
+                " 4. 1 cup shredded cheddar cheese, ",
+                " 5. 1 cup tortilla chips, crushed, ",
+                " 6. 1/2 cup sour cream. "
+               
+                
+              ],
+              "cooking_method": "1. Heat the olive oil in a large skillet over medium-high hea. 2. Add the ground beef and cook until browned and cooked through, breaking it up with a spoon as it cooks. 3. Add the taco seasoning and stir to combine. 4. In a large bowl, combine the chopped lettuce, cherry tomatoes, shredded cheese, and crushed tortilla chips. 5. Add the cooked ground beef and stir to combine. 6. In a small bowl, mix together the sour cream, salsa, and chopped cilantro. 7. Serve the taco salad with the sour cream mixture on top.",
+              "ratings": 4.5
+            },
+            {
+              "recipe_id": 2,
+              "recipe_name": "Chicken Enchiladas",
+              "ingredients": [
+                " 1. 2 cups shredded cooked chicken, ",
+                " 2. 1 can (15 oz) black beans, rinsed and drained, ",
+                " 3. 1 cup salsa, ",
+                " 4. 1/2 cup chopped fresh cilantro, ",
+                " 5. 1 tsp ground cumin, ",
+                " 6. 1 tsp chili powder"
+               
+              ],
+              "cooking_method": "1. Preheat the oven to 350°F. 2. In a large bowl, combine the shredded chicken, black beans, salsa, cilantro, cumin, and chili powder. 3. Wrap the tortillas in a damp paper towel and microwave for 30 seconds to soften. 4. Place a spoonful of the chicken mixture onto each tortilla, roll up, and place seam-side down in a 9x13 inch baking dish. 5. Sprinkle  cheese over the top of the enchiladas, followed by the sliced olives and chopped green onions. 6. Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+              "ratings": 4.8
+            },
+            {
+              "recipe_id": 3,
+              "recipe_name": "Chile Rellenos",
+              "ingredients": [
+                " 1. 4 large poblano peppers, ",
+                " 2. 1 lb ground beef, ",
+                " 3. 1 cup cooked rice, ",
+                " 4. 1 cup shredded Monterey Jack cheese, ",
+                " 5. 1/2 cup chopped onion, ",
+                " 6. 2 cloves garlic, minced ,"
+               
+              ],
+              "cooking_method": "1. Preheat the broiler, 2. Place the poblano peppers on a baking sheet and broil for 5-10 minutes, turning occasionally, until the skins areblackened and blistered. 3. Remove the peppers from the oven and place them in a plastic bag to steam for 10-15 minutes. 4. In a large bowl, combine the ground beef, cooked rice, shredded cheese, chopped onion, minced garlic, cumin, chili powder, salt, and black pepper. 5. Heat the vegetable oil in a large skillet over medium-high heat. 6. Bake at 350°F for 20-25 minutes, or until the sauce is bubbly and the peppers are tender.",
+              "ratings": 4.2
+              }
+              ]
+            
+    },
+  {"id":2,
+    "chef_name": "Julian",
+    "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEdNNSvf5Trfnucfdsfw1laaKmt3_lH6v0g&usqp=CAU",
+    "chef_short_description": "Expert in traditional Mexican cuisine with a modern twist",
+    "years_of_experience": 8,
+    "numbers_of_recipe": 30,
+    "likes": 5000,
+    "recipes":   [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Taco Salad",
+          "ingredients": [
+            " 1. 1 lb ground beef, ",
+            " 2. 1 head lettuce, chopped, ",
+            " 3. 1 cup cherry tomatoes, halved, ",
+            " 4. 1 cup shredded cheddar cheese, ",
+            " 5. 1 cup tortilla chips, crushed, ",
+            " 6. 1/2 cup sour cream. "
+           
+            
+          ],
+          "cooking_method": "1. Heat the olive oil in a large skillet over medium-high hea. 2. Add the ground beef and cook until browned and cooked through, breaking it up with a spoon as it cooks. 3. Add the taco seasoning and stir to combine. 4. In a large bowl, combine the chopped lettuce, cherry tomatoes, shredded cheese, and crushed tortilla chips. 5. Add the cooked ground beef and stir to combine. 6. In a small bowl, mix together the sour cream, salsa, and chopped cilantro. 7. Serve the taco salad with the sour cream mixture on top.",
+          "ratings": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Chicken Enchiladas",
+          "ingredients": [
+            " 1. 2 cups shredded cooked chicken, ",
+            " 2. 1 can (15 oz) black beans, rinsed and drained, ",
+            " 3. 1 cup salsa, ",
+            " 4. 1/2 cup chopped fresh cilantro, ",
+            " 5. 1 tsp ground cumin, ",
+            " 6. 1 tsp chili powder"
+           
+          ],
+          "cooking_method": "1. Preheat the oven to 350°F. 2. In a large bowl, combine the shredded chicken, black beans, salsa, cilantro, cumin, and chili powder. 3. Wrap the tortillas in a damp paper towel and microwave for 30 seconds to soften. 4. Place a spoonful of the chicken mixture onto each tortilla, roll up, and place seam-side down in a 9x13 inch baking dish. 5. Sprinkle  cheese over the top of the enchiladas, followed by the sliced olives and chopped green onions. 6. Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+          "ratings": 4.8
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Chile Rellenos",
+          "ingredients": [
+            " 1. 4 large poblano peppers, ",
+            " 2. 1 lb ground beef, ",
+            " 3. 1 cup cooked rice, ",
+            " 4. 1 cup shredded Monterey Jack cheese, ",
+            " 5. 1/2 cup chopped onion, ",
+            " 6. 2 cloves garlic, minced ,"
+           
+          ],
+          "cooking_method": "1. Preheat the broiler, 2. Place the poblano peppers on a baking sheet and broil for 5-10 minutes, turning occasionally, until the skins areblackened and blistered. 3. Remove the peppers from the oven and place them in a plastic bag to steam for 10-15 minutes. 4. In a large bowl, combine the ground beef, cooked rice, shredded cheese, chopped onion, minced garlic, cumin, chili powder, salt, and black pepper. 5. Heat the vegetable oil in a large skillet over medium-high heat. 6. Bake at 350°F for 20-25 minutes, or until the sauce is bubbly and the peppers are tender.",
+          "ratings": 4.2
+          }
+          ]
+        
+},
+  {  "id": 3,   
+  "chef_name": "G. Ramsey", 
+"chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhO3GD36HekFezEooBmZe1yAM0v0c2-RS_jw&usqp=CAU",  
+  "chef_short_description": "Expert legendary chef with a passion for all type Mexican cuisine",    "years_of_experience": 24,  
+    "numbers_of_recipe": 55, 
+       "likes": 9500,   
+        "recipes":  [
+            {
+              "recipe_id": 1,
+              "recipe_name": "Taco Salad",
+              "ingredients": [
+                " 1. 1 lb ground beef, ",
+                " 2. 1 head lettuce, chopped, ",
+                " 3. 1 cup cherry tomatoes, halved, ",
+                " 4. 1 cup shredded cheddar cheese, ",
+                " 5. 1 cup tortilla chips, crushed, ",
+                " 6. 1/2 cup sour cream. "
+               
+                
+              ],
+              "cooking_method": "1. Heat the olive oil in a large skillet over medium-high hea. 2. Add the ground beef and cook until browned and cooked through, breaking it up with a spoon as it cooks. 3. Add the taco seasoning and stir to combine. 4. In a large bowl, combine the chopped lettuce, cherry tomatoes, shredded cheese, and crushed tortilla chips. 5. Add the cooked ground beef and stir to combine. 6. In a small bowl, mix together the sour cream, salsa, and chopped cilantro. 7. Serve the taco salad with the sour cream mixture on top.",
+              "ratings": 4.5
+            },
+            {
+              "recipe_id": 2,
+              "recipe_name": "Chicken Enchiladas",
+              "ingredients": [
+                " 1. 2 cups shredded cooked chicken, ",
+                " 2. 1 can (15 oz) black beans, rinsed and drained, ",
+                " 3. 1 cup salsa, ",
+                " 4. 1/2 cup chopped fresh cilantro, ",
+                " 5. 1 tsp ground cumin, ",
+                " 6. 1 tsp chili powder"
+               
+              ],
+              "cooking_method": "1. Preheat the oven to 350°F. 2. In a large bowl, combine the shredded chicken, black beans, salsa, cilantro, cumin, and chili powder. 3. Wrap the tortillas in a damp paper towel and microwave for 30 seconds to soften. 4. Place a spoonful of the chicken mixture onto each tortilla, roll up, and place seam-side down in a 9x13 inch baking dish. 5. Sprinkle cheese over the top of the enchiladas, followed by the sliced olives and chopped green onions. 6. Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+              "ratings": 4.8
+            },
+            {
+              "recipe_id": 3,
+              "recipe_name": "Chile Rellenos",
+              "ingredients": [
+                " 1. 4 large poblano peppers, ",
+                " 2. 1 lb ground beef, ",
+                " 3. 1 cup cooked rice, ",
+                " 4. 1 cup shredded Monterey Jack cheese, ",
+                " 5. 1/2 cup chopped onion, ",
+                " 6. 2 cloves garlic, minced ,"
+               
+              ],
+              "cooking_method": "1. Preheat the broiler, 2. Place the poblano peppers on a baking sheet and broil for 5-10 minutes, turning occasionally, until the skins areblackened and blistered. 3. Remove the peppers from the oven and place them in a plastic bag to steam for 10-15 minutes. 4. In a large bowl, combine the ground beef, cooked rice, shredded cheese, chopped onion, minced garlic, cumin, chili powder, salt, and black pepper. 5. Heat the vegetable oil in a large skillet over medium-high heat. 6. Bake at 350°F for 20-25 minutes, or until the sauce is bubbly and the peppers are tender.",
+              "ratings": 4.2
+              }
+              ]
+            
+    },
+  {  "id": 4,   
+"chef_name": "Robert Clain", 
+"chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeqwBAnWAau-iKi8oP3hBNMFEC0PTebo2Ww&usqp=CAU",  
+"chef_short_description": "Award-winning expert chef with a passion for delicious Mexican  cuisine",    "years_of_experience": 13,  
+  "numbers_of_recipe": 35, 
+     "likes": 6000,   
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Taco Salad",
+          "ingredients": [
+            " 1. 1 lb ground beef, ",
+            " 2. 1 head lettuce, chopped, ",
+            " 3. 1 cup cherry tomatoes, halved, ",
+            " 4. 1 cup shredded cheddar cheese, ",
+            " 5. 1 cup tortilla chips, crushed, ",
+            " 6. 1/2 cup sour cream. "
+           
+            
+          ],
+          "cooking_method": "1. Heat the olive oil in a large skillet over medium-high hea. 2. Add the ground beef and cook until browned and cooked through, breaking it up with a spoon as it cooks. 3. Add the taco seasoning and stir to combine. 4. In a large bowl, combine the chopped lettuce, cherry tomatoes, shredded cheese, and crushed tortilla chips. 5. Add the cooked ground beef and stir to combine. 6. In a small bowl, mix together the sour cream, salsa, and chopped cilantro. 7. Serve the taco salad with the sour cream mixture on top.",
+          "ratings": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Chicken Enchiladas",
+          "ingredients": [
+            " 1. 2 cups shredded cooked chicken, ",
+            " 2. 1 can (15 oz) black beans, rinsed and drained, ",
+            " 3. 1 cup salsa, ",
+            " 4. 1/2 cup chopped fresh cilantro, ",
+            " 5. 1 tsp ground cumin, ",
+            " 6. 1 tsp chili powder"
+           
+          ],
+          "cooking_method": "1. Preheat the oven to 350°F. 2. In a large bowl, combine the shredded chicken, black beans, salsa, cilantro, cumin, and chili powder. 3. Wrap the tortillas in a damp paper towel and microwave for 30 seconds to soften. 4. Place a spoonful of the chicken mixture onto each tortilla, roll up, and place seam-side down in a 9x13 inch baking dish. 5. Sprinkle cheese over the top of the enchiladas, followed by the sliced olives and chopped green onions. 6. Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+          "ratings": 4.8
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Chile Rellenos",
+          "ingredients": [
+            " 1. 4 large poblano peppers, ",
+            " 2. 1 lb ground beef, ",
+            " 3. 1 cup cooked rice, ",
+            " 4. 1 cup shredded Monterey Jack cheese, ",
+            " 5. 1/2 cup chopped onion, ",
+            " 6. 2 cloves garlic, minced ,"
+           
+          ],
+          "cooking_method": "1. Preheat the broiler, 2. Place the poblano peppers on a baking sheet and broil for 5-10 minutes, turning occasionally, until the skins areblackened and blistered. 3. Remove the peppers from the oven and place them in a plastic bag to steam for 10-15 minutes. 4. In a large bowl, combine the ground beef, cooked rice, shredded cheese, chopped onion, minced garlic, cumin, chili powder, salt, and black pepper. 5. Heat the vegetable oil in a large skillet over medium-high heat. 6. Bake at 350°F for 20-25 minutes, or until the sauce is bubbly and the peppers are tender. ",
+          "ratings": 4.2
+          }
+          ]
+        
+},
+{  "id": 5,   
+"chef_name": "Harry Smith", 
+"chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A5YxKsosb7Wdm-w1GsgpfXjrqe4NYW7oxw&usqp=CAU",  
+"chef_short_description": "Award-winning chef with a passion for Mexican fusion classical cuisine",    "years_of_experience": 11,  
+  "numbers_of_recipe": 40, 
+     "likes": 6500,   
+      "recipes":  [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Taco Salad",
+          "ingredients": [
+            " 1. 1 lb ground beef, ",
+            " 2. 1 head lettuce, chopped, ",
+            " 3. 1 cup cherry tomatoes, halved, ",
+            " 4. 1 cup shredded cheddar cheese, ",
+            " 5. 1 cup tortilla chips, crushed, ",
+            " 6. 1/2 cup sour cream. "
+           
+            
+          ],
+          "cooking_method": "1. Heat the olive oil in a large skillet over medium-high hea. 2. Add the ground beef and cook until browned and cooked through, breaking it up with a spoon as it cooks. 3. Add the taco seasoning and stir to combine. 4. In a large bowl, combine the chopped lettuce, cherry tomatoes, shredded cheese, and crushed tortilla chips. 5. Add the cooked ground beef and stir to combine. 6. In a small bowl, mix together the sour cream, salsa, and chopped cilantro. 7. Serve the taco salad with the sour cream mixture on top.",
+          "ratings": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Chicken Enchiladas",
+          "ingredients": [
+            " 1. 2 cups shredded cooked chicken, ",
+            " 2. 1 can (15 oz) black beans, rinsed and drained, ",
+            " 3. 1 cup salsa, ",
+            " 4. 1/2 cup chopped fresh cilantro, ",
+            " 5. 1 tsp ground cumin, ",
+            " 6. 1 tsp chili powder"
+           
+          ],
+          "cooking_method": "1. Preheat the oven to 350°F. 2. In a large bowl, combine the shredded chicken, black beans, salsa, cilantro, cumin, and chili powder. 3. Wrap the tortillas in a damp paper towel and microwave for 30 seconds to soften. 4. Place a spoonful of the chicken mixture onto each tortilla, roll up, and place seam-side down in a 9x13 inch baking dish. 5. Sprinkle cheese over the top of the enchiladas, followed by the sliced olives and chopped green onions. 6. Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+          "ratings": 4.8
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Chile Rellenos",
+          "ingredients": [
+            " 1. 4 large poblano peppers, ",
+            " 2. 1 lb ground beef, ",
+            " 3. 1 cup cooked rice, ",
+            " 4. 1 cup shredded Monterey Jack cheese, ",
+            " 5. 1/2 cup chopped onion, ",
+            " 6. 2 cloves garlic, minced ,"
+           
+          ],
+          "cooking_method": "1. Preheat the broiler, 2. Place the poblano peppers on a baking sheet and broil for 5-10 minutes, turning occasionally, until the skins areblackened and blistered. 3. Remove the peppers from the oven and place them in a plastic bag to steam for 10-15 minutes. 4. In a large bowl, combine the ground beef, cooked rice, shredded cheese, chopped onion, minced garlic, cumin, chili powder, salt, and black pepper. 5. Heat the vegetable oil in a large skillet over medium-high heat. 6. Bake at 350°F for 20-25 minutes, or until the sauce is bubbly and the peppers are tender. ",
+          "ratings": 4.2
+          }
+          ]
+        
+},
+{"id":6,
+    "chef_name": "Marry Anne",
+    "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRIf1zMtLLNZbNDK0_8YhUIQD-eFYnpvSNrw&usqp=CAU",
+    "chef_short_description": "Expert in traditional Mexican cuisine with a modern taste",
+    "years_of_experience": 12,
+    "numbers_of_recipe": 38,
+    "likes": 5500,
+    "recipes":  [
+        {
+          "recipe_id": 1,
+          "recipe_name": "Taco Salad",
+          "ingredients": [
+            " 1. 1 lb ground beef, ",
+            " 2. 1 head lettuce, chopped, ",
+            " 3. 1 cup cherry tomatoes, halved, ",
+            " 4. 1 cup shredded cheddar cheese, ",
+            " 5. 1 cup tortilla chips, crushed, ",
+            " 6. 1/2 cup sour cream. "
+           
+            
+          ],
+          "cooking_method": "1. Heat the olive oil in a large skillet over medium-high hea. 2. Add the ground beef and cook until browned and cooked through, breaking it up with a spoon as it cooks. 3. Add the taco seasoning and stir to combine. 4. In a large bowl, combine the chopped lettuce, cherry tomatoes, shredded cheese, and crushed tortilla chips. 5. Add the cooked ground beef and stir to combine. 6. In a small bowl, mix together the sour cream, salsa, and chopped cilantro. 7. Serve the taco salad with the sour cream mixture on top.",
+          "ratings": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "recipe_name": "Chicken Enchiladas",
+          "ingredients": [
+            " 1. 2 cups shredded cooked chicken, ",
+            " 2. 1 can (15 oz) black beans, rinsed and drained, ",
+            " 3. 1 cup salsa, ",
+            " 4. 1/2 cup chopped fresh cilantro, ",
+            " 5. 1 tsp ground cumin, ",
+            " 6. 1 tsp chili powder"
+           
+          ],
+          "cooking_method": "1. Preheat the oven to 350°F. 2. In a large bowl, combine the shredded chicken, black beans, salsa, cilantro, cumin, and chili powder. 3. Wrap the tortillas in a damp paper towel and microwave for 30 seconds to soften. 4. Place a spoonful of the chicken mixture onto each tortilla, roll up, and place seam-side down in a 9x13 inch baking dish. 5. Sprinkle cheese over the top of the enchiladas, followed by the sliced olives and chopped green onions. 6. Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+          "ratings": 4.8
+        },
+        {
+          "recipe_id": 3,
+          "recipe_name": "Chile Rellenos",
+          "ingredients": [
+            " 1. 4 large poblano peppers, ",
+            " 2. 1 lb ground beef, ",
+            " 3. 1 cup cooked rice, ",
+            " 4. 1 cup shredded Monterey Jack cheese, ",
+            " 5. 1/2 cup chopped onion, ",
+            " 6. 2 cloves garlic, minced ,"
+           
+          ],
+          "cooking_method": "1. Preheat the broiler, 2. Place the poblano peppers on a baking sheet and broil for 5-10 minutes, turning occasionally, until the skins areblackened and blistered. 3. Remove the peppers from the oven and place them in a plastic bag to steam for 10-15 minutes. 4. In a large bowl, combine the ground beef, cooked rice, shredded cheese, chopped onion, minced garlic, cumin, chili powder, salt, and black pepper. 5. Heat the vegetable oil in a large skillet over medium-high heat. 6. Bake at 350°F for 20-25 minutes, or until the sauce is bubbly and the peppers are tender.",
+          "ratings": 4.2
+          }
+          ]
+        
+}
+]
